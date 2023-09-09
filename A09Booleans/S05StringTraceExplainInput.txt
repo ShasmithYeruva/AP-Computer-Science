@@ -1,0 +1,20 @@
+str1 and st2 are the same address because str2 is set equal to the str1 object
+str1 and st2 have the same value because str2 is set equal to the string located in the str1 object
+str1 and str3 are not part of the address because str1 and str3 are initialized to different objects
+str1 and str3 have the same value because they are set equal to the same string
+str1 and str4 are not part of the address because str1 and str4 are initialized to different objects
+str1 and str4 have the same value because they are set equal to the same string
+str1 and str5 are not part of the address because str1 and str5 are initialized to different objects
+str1 and str5 do not have the same value since str5 was set to the same string to str1 at first however str5 was later modified
+str2 and str3 are not part of the address because str2 and str3 are initialized to different objects
+str2 and str3 have the same value because they are set equal to the same string
+str2 and str4 are not part of the address because str2 and str4 are initialized to different objects
+str2 and str4 have the same value because they are set equal to the same string
+str2 and str5 are not part of the address because str2 and str5 are initialized to different objects
+str2 and str5 do not have the same value since str5 was set to the same string to str2 at first however str5 was later modified
+str3 and str4 are the same address because java compiler automatically recognizes that str3 and st4 are the same String
+str3 and str4 have the same value because they are set equal to the same string
+str3 and str5 are not part of the address because str3 and str5 are initialized to different objects
+str3 and str5 do not have the same value since str5 was set to the same string to str3 at first however str5 was later modified
+str4 and str5 are not part of the address because str4 and str5 are initialized to different objects
+str4 and str5 do not have the same value since str5 was set to the same string to str4 at first however str5 was later modified
